@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="CellToSQL.sln" />
+    <File Path="Program.cs" />
+  </Folder>
+  <Project Path="CellToSQL.csproj" />
+</Solution>
